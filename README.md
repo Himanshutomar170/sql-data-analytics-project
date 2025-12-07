@@ -36,7 +36,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 - Some products need improvement  
 
 ## 📎 License
-This project is under the MIT License.
+🛡️ License
+This project is licensed under the [MIT License](LINCENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🔗 Connect with me
 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
