@@ -28,33 +28,16 @@ This project is licensed under the MIT License. You are free to use, modify, and
 - How does performance change over time?  
 
 ## 🧠 Sample Query
-```sql
-SELECT 
-    customer_id,
-    SUM(sales_amount) AS total_sales
-FROM sales
-GROUP BY customer_id
-ORDER BY total_sales DESC;
-
-
-
----
-
-### **PART 2 — Copy this after Part 1, just below it**
-```md
----
+`SELECT customer_id, SUM(sales_amount) AS total_sales FROM sales GROUP BY customer_id ORDER BY total_sales DESC;`
 
 ## 📈 Insights (Example)
 - Sales increased in the last quarter  
 - Top customers bring most of the revenue  
 - Some products need improvement  
 
----
-
 ## 📎 License
-This project is under the **MIT License**.
-
----
+This project is under the MIT License.
 
 ## 🔗 Connect with me
 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+
