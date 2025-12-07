@@ -37,14 +37,24 @@ GROUP BY customer_id
 ORDER BY total_sales DESC;
 
 
+
+---
+
+### **PART 2 — Copy this after Part 1, just below it**
+```md
+---
+
 ## 📈 Insights (Example)
+- Sales increased in the last quarter  
+- Top customers bring most of the revenue  
+- Some products need improvement  
 
-Sales increased in the last quarter
-
-Top customers bring most of the revenue
-
-Some products need improvement
+---
 
 ## 📎 License
+This project is under the **MIT License**.
 
-This project is under the MIT License.
+---
+
+## 🔗 Connect with me
+LinkedIn: https://www.linkedin.com/in/YOUR-LINK
