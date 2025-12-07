@@ -1,2 +1,3 @@
 # sql-data-analytics-project
-This project is about data analysis using SQL. I cleaned the data, wrote queries, and found useful insights. I used window functions, joins, subqueries, and group by. This project helped me learn real business questions.
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
