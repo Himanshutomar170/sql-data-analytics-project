@@ -9,12 +9,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Project-Active-success)
 
-# SQL Data Analytics Project
-
-A set of SQL queries for data exploration and business analytics.  
-These queries help to check data quality, find useful metrics, analyse trends, and segment customers.  
-Each query has one clear goal and follows good SQL practices.
-
 ## 📌 Skills Used
 - Joins  
 - Group By  
@@ -41,3 +35,16 @@ SELECT
 FROM sales
 GROUP BY customer_id
 ORDER BY total_sales DESC;
+
+
+📈 Insights (Example)
+
+Sales increased in the last quarter
+
+Top customers bring most of the revenue
+
+Some products need improvement
+
+📎 License
+
+This project is under the MIT License.
