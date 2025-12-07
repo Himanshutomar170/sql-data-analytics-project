@@ -3,3 +3,41 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+
+![SQL Badge](https://img.shields.io/badge/SQL-Data%20Analytics-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Active-success)
+
+# SQL Data Analytics Project
+
+A set of SQL queries for data exploration and business analytics.  
+These queries help to check data quality, find useful metrics, analyse trends, and segment customers.  
+Each query has one clear goal and follows good SQL practices.
+
+## 📌 Skills Used
+- Joins  
+- Group By  
+- Window Functions  
+- Subqueries  
+- CTEs  
+- Data Cleaning  
+
+## 🛠️ Tools
+- SQL Server  
+- Excel / CSV *(if used)*  
+
+## 📊 Business Questions Example
+- Which products make the highest revenue?  
+- Which month has the best sales?  
+- Who are the top customers?  
+- How does performance change over time?  
+
+## 🧠 Sample Query
+```sql
+SELECT 
+    customer_id,
+    SUM(sales_amount) AS total_sales
+FROM sales
+GROUP BY customer_id
+ORDER BY total_sales DESC;
