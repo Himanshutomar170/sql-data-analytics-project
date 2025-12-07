@@ -15,7 +15,7 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 
 ## 🛠️ Tools
 - SQL Server  
-- Excel / CSV *(if used)*  
+- Excel / CSV   
 
 ## 📊 Business Questions Example
 - Which products make the highest revenue?  
@@ -28,7 +28,9 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 
 ## 📈 Insights (Example)
 - Sales increased in the last quarter  
-- Top customers bring most of the revenue  
+- Top customers bring most of the revenue
+- Top customers contribute 90% of total revenue
+- Product category **Bike** performs best
 - Some products need improvement  
 
 ## 📎 License
@@ -36,5 +38,6 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🔗 Connect with me
-LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Tomar-blue)](https://www.linkedin.com/in/himanshu-tomar-b297a3187)
+
 
